@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-Fungibly propagate tactical mindshare
+Just another repository - Fungibly propagate tactical mindshare
